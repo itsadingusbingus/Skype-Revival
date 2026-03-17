@@ -1,0 +1,28 @@
+Security & Risk Disclaimer
+This project is for educational and preservation purposes only. By using the files and scripts in this repository, you acknowledge and agree to the following:
+1. Legacy Software Risks
+The versions of Skype provided here (5.x - 7.x) are "End-of-Life" (EOL). This means they no longer receive security patches or bug fixes from Microsoft. 
+Vulnerabilities: Older software often contains known security flaws that hackers can exploit to steal data or install malware.
+No Support: Since these versions are retired, Microsoft will not offer any help or technical support if something goes wrong. 
+Propel Your MSP
+Propel Your MSP
+ +2
+2. "As-Is" Policy
+Everything in this repository is provided "as-is" without any warranties. 
+GitHub
+GitHub
+ +2
+We do not guarantee that these versions will connect to modern servers.
+We are not responsible for any damage to your computer, loss of data, or account bans that may result from using modified or legacy software. 
+National Institute of Standards and Technology (.gov)
+National Institute of Standards and Technology (.gov)
+ +2
+3. Safety Recommendations
+To stay safe while using old technology:
+Don't share sensitive info: Never send passwords, bank details, or private documents over legacy versions of Skype.
+Use a Test Account: We recommend using a secondary account rather than your main Microsoft account.
+Backup Your Data: Always back up your important files before installing older software. 
+GitHub
+GitHub
+ +1
+Use this software at your own risk.
