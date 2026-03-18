@@ -1,3 +1,5 @@
+# UPDATE!!
+We are moving from just fixing old Skype to building our own Red Skype prototype in Python! Check out red_skype.py to see the new UI.
 # The revival.
 Hi! I'm Felix. I've loved old technology since I was four years old. I'm 10 now, and I'm starting the Skype-Revival team to keep classic versions of Skype alive!
 # Why?
